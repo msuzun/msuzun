@@ -1,7 +1,7 @@
 # Hi, I’m  Muhammet Şevki UZUN. Welcome to the my github profile 
 
 
-  >### _Computer Engineer 
+  >### _Computer Engineer_ 
 - 🌱 I’m currently learning Javascript,React,React Native, .NET CORE  
 
 
