@@ -1,7 +1,7 @@
 # Hi, I’m  Muhammet Şevki UZUN. Welcome to the my github profile 
 
 
-  >### _Computer Engineer at [Atatürk University](https://atauni.edu.tr/en/index)_
+  >### _Computer Engineer 
 - 🌱 I’m currently learning Javascript,React,React Native, .NET CORE  
 
 
