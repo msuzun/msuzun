@@ -1,4 +1,4 @@
-# Hi, I’m  Muhammet Şevki UZUN. Welcome to the my github profile 
+# Hi, I’m  Muhammet Şevki UZUN. Welcome to my github profile 
 
 
   >### _Computer Engineer_ 
